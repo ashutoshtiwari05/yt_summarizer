@@ -66,30 +66,9 @@ coverage.xml
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Distribution / packaging
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
 # Conda
 conda-env/
 
 # Gradio
-flagged/ 
+flagged/
 .gradio/
-temp_audio.*
-.gradio/*
