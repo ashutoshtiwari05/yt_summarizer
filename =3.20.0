@@ -1,5 +1,0 @@
-Collecting protobuf
-  Downloading protobuf-5.29.3-cp38-abi3-macosx_10_9_universal2.whl.metadata (592 bytes)
-Downloading protobuf-5.29.3-cp38-abi3-macosx_10_9_universal2.whl (417 kB)
-Installing collected packages: protobuf
-Successfully installed protobuf-5.29.3

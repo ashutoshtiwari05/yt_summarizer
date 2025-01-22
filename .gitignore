@@ -90,3 +90,6 @@ conda-env/
 
 # Gradio
 flagged/ 
+.gradio/
+temp_audio.*
+.gradio/*
